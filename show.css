@@ -4,3 +4,35 @@ h2{
   font-size: 32px;
   margin: 20px 0px;
 }
+.checkbox{
+    width:50px;
+    color: rgb(50,50,90)
+}
+
+.delete{
+  display: inline-block;
+  padding:10px;
+  background-color: rgb(255,0,0);
+  text-align:center;
+  box-shadow: 2px 2px 1px #90A4AE;
+  
+  
+}
+.edit{
+  display: inline-block;
+  padding:10px;
+  background-color: blue;
+  text-align:center;
+  box-shadow: 2px 2px 1px #90A4AE;
+}
+.go{
+  display: inline-block;
+  padding:10px;
+  background-color: green;
+  text-align:center;
+  box-shadow: 2px 2px 1px #90A4AE;
+}
+a:active {
+  color:white;
+    
+}
